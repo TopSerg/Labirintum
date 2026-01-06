@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestGameRogalic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestGameRogalic_jar</output-path>
+    <root id="archive" name="TestGameRogalic.jar">
+      <element id="module-output" name="TestGameRogalic" />
+    </root>
+  </artifact>
+</component>
